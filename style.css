@@ -42,6 +42,7 @@ body {
 .comment-box .comment {
     border-radius: 30px;
     padding: 10px;
+    padding-left:15px;
 }
 
 .comment-display{

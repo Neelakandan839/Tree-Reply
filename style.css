@@ -45,7 +45,7 @@ body {
 }
 
 .comment-display{
-    width: 600px;
+    width: fit-content;
     background: rgb(181, 238, 179);
     border-radius: 10px;
     overflow: hidden;

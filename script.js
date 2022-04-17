@@ -69,6 +69,4 @@ class Comment extends HTMLElement {
         this.commentDisplay.querySelector(".reply-btn").removeEventListener();
     }
 }
-
-sessionStorage.setItem("currentUser", "tree");
 window.customElements.define("comment-box", Comment);
